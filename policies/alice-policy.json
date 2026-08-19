@@ -1,0 +1,17 @@
+<div class="project-card">
+    <h3>AWS IAM & KMS Security Architecture</h3>
+
+    <p>
+        Designed an AWS security environment implementing IAM
+        least privilege, S3 access controls, KMS encryption,
+        and separation of duties.
+    </p>
+
+    <p class="project-tech">
+        AWS IAM • S3 • KMS • Cloud Security
+    </p>
+
+    <a href="aws-iam-security.html" class="project-button">
+        View Project
+    </a>
+</div>
